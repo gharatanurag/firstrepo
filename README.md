@@ -1,4 +1,7 @@
-This is the readme file
+This is a new commit to reset.
+This is the readme file and from master.
+
+This is the readme file from dev branch.
 
 This is commit from dev branch
 
